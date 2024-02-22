@@ -1,5 +1,5 @@
 /*******************************************************************************************************************************
- * Random Dice Distribution
+ * Normal Distribution
  * 
  * Name: Normal_Distribution_Generator.c
  * 
